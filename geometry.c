@@ -238,7 +238,7 @@ int main()
         }
         
         if (error == 0) {
-            printf("No Errors! GOOD JOB<3\n");
+            printf("It works\n");
         }
         error = 0;
         printf("\n");
